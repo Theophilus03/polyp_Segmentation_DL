@@ -1,5 +1,5 @@
 # Polyp Segmentation
-A deep learning project to perform sematic segmentation on polyps in the human colon. those models will be evaluated using accuracy, IoU, and DICE Coef.
+A deep learning project to perform sematic segmentation on polyps in the human colon. Those models will be train on keras framework and evaluated using accuracy, IoU, and DICE Coef.([paper](https://drive.google.com/file/d/11NF4abFCOKHoWRK2QfGyVbnSLwJjP-Dq/view?usp=sharing))
 
 # Result
 <img width="386" alt="Result" src="https://github.com/Theophilus03/polyp_Segmentation_DL/assets/114735443/00ba93cf-68a7-422a-914d-b344d80d1f92">
